@@ -1,0 +1,10 @@
+body {
+    font-family: "Open Sans", verdana,sans-serif;
+    text-align: center;
+}
+ul {
+    list-style-type: none; text-align: justify;
+}
+div {
+   background-color: lightgray; border: 2px;
+}
